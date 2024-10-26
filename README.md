@@ -1,6 +1,6 @@
 # IP Address Information Retriever
 
-This Python script retrieves information from the users IP address, including the user's IP address, city, region, country, ISP, and time zone using a public IP geolocation API.
+This Python script retrieves information from the users IP address, including the user's IP address, city, region, country, ISP, and time zone. The retrieved information is then sent to a specified Discord webhook.
 
 ## Features
 
@@ -11,3 +11,4 @@ This Python script retrieves information from the users IP address, including th
   - Country
   - ISP (Internet Service Provider)
   - Time Zone
+- **Sends the retrieved information to a Discord channel via webhook.**
